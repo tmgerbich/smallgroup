@@ -4,3 +4,7 @@ command to swap branches
 
 git status
 status of git 
+
+
+git log
+changes to git
