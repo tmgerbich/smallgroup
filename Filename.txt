@@ -8,3 +8,6 @@ status of git
 
 git log
 changes to git
+
+git commit
+saves snapshot of my file
