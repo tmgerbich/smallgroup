@@ -1,2 +1,6 @@
 git checkout
 command to swap branches
+
+
+git status
+status of git 
